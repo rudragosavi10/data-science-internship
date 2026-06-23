@@ -1,8 +1,12 @@
-# Day 05 - LCM of Two Numbers 🔢
+# Day 05 - LCM and HCF of Two Numbers 🔢
 
-## Problem Statement
+## Problems Solved
 
-Take any two numbers as input from the user and find their Least Common Multiple (LCM).
+### Question 1
+Find the Least Common Multiple (LCM) of two numbers.
+
+### Question 2
+Find the Highest Common Factor (HCF) of two numbers.
 
 ---
 
@@ -10,25 +14,18 @@ Take any two numbers as input from the user and find their Least Common Multiple
 
 - Variables
 - Input and Output
-- `while` loop
+- Loops (`for`, `while`)
+- Lists
 - Conditional Statements (`if`)
-- Modulus Operator (`%`)
+- Factors and Divisibility
 - Logic Building
-
----
-
-## Approach
-
-1. Start from the maximum of the two numbers.
-2. Check whether the number is divisible by both numbers.
-3. If yes, it is the LCM.
-4. Otherwise, increment the number and continue.
 
 ---
 
 ## Files
 
 - `q1_lcm_of_two_numbers.py`
+- `q2_hcf_of_two_numbers.py`
 
 ---
 
