@@ -5,11 +5,13 @@ Take a string from the user and print it in an X pattern.
 
 Example:
 
+```
 N***N
 *A*A*
 **Y**
 *A*A*
 N***N
+```
 
 ## Concepts Used
 - Strings
